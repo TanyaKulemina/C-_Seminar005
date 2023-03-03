@@ -1,0 +1,15 @@
+/Users/tatyanakulemina/Desktop/Seminar_5/Example_007/bin/Debug/net6.0/Example_007
+/Users/tatyanakulemina/Desktop/Seminar_5/Example_007/bin/Debug/net6.0/Example_007.deps.json
+/Users/tatyanakulemina/Desktop/Seminar_5/Example_007/bin/Debug/net6.0/Example_007.runtimeconfig.json
+/Users/tatyanakulemina/Desktop/Seminar_5/Example_007/bin/Debug/net6.0/Example_007.dll
+/Users/tatyanakulemina/Desktop/Seminar_5/Example_007/bin/Debug/net6.0/Example_007.pdb
+/Users/tatyanakulemina/Desktop/Seminar_5/Example_007/obj/Debug/net6.0/Example_007.csproj.AssemblyReference.cache
+/Users/tatyanakulemina/Desktop/Seminar_5/Example_007/obj/Debug/net6.0/Example_007.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tatyanakulemina/Desktop/Seminar_5/Example_007/obj/Debug/net6.0/Example_007.AssemblyInfoInputs.cache
+/Users/tatyanakulemina/Desktop/Seminar_5/Example_007/obj/Debug/net6.0/Example_007.AssemblyInfo.cs
+/Users/tatyanakulemina/Desktop/Seminar_5/Example_007/obj/Debug/net6.0/Example_007.csproj.CoreCompileInputs.cache
+/Users/tatyanakulemina/Desktop/Seminar_5/Example_007/obj/Debug/net6.0/Example_007.dll
+/Users/tatyanakulemina/Desktop/Seminar_5/Example_007/obj/Debug/net6.0/refint/Example_007.dll
+/Users/tatyanakulemina/Desktop/Seminar_5/Example_007/obj/Debug/net6.0/Example_007.pdb
+/Users/tatyanakulemina/Desktop/Seminar_5/Example_007/obj/Debug/net6.0/Example_007.genruntimeconfig.cache
+/Users/tatyanakulemina/Desktop/Seminar_5/Example_007/obj/Debug/net6.0/ref/Example_007.dll
